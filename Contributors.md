@@ -5,6 +5,7 @@
 [Diya Acharya](https://github.com/diyaacharya)\
 [Saurav Sutaria](https://github.com/Saurav-Sutaria)\
 [Diya Acharya](https://github.com/diyaacharya) \
+[Madhuri BH](https://github.com/madhuri-bh) \
 [imsamimalik](https://github.com/imsamimalik)\
 [abdoelhafi](https://github.com/abdoelhafi)\
 [Atif](https://github.com/mdatif796)\
@@ -23,4 +24,4 @@
 [Vishesh Rathi](https://github.com/rathi710)\
 [Vishnu Ram V](https://github.com/vishnuramv)
 [Lokesh Gawande](https://github.com/lokesh21012002)
-[Harshita Sharma](https://github.com/harshita214)
+[Harshita Sharma](https://github.com/harshita214)\
